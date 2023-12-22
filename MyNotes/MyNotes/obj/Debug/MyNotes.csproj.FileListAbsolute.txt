@@ -1,0 +1,10 @@
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\bin\Debug\MyNotes.exe.config
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\bin\Debug\MyNotes.exe
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\bin\Debug\MyNotes.pdb
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.AssemblyReference.cache
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\obj\Debug\MyNotes.Form1.resources
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\obj\Debug\MyNotes.Properties.Resources.resources
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.GenerateResource.cache
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\obj\Debug\MyNotes.exe
+C:\Users\doguk\OneDrive\Masaüstü\DEVLAB\CPP\MyNotes\MyNotes\obj\Debug\MyNotes.pdb
